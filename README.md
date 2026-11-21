@@ -29,20 +29,20 @@
 
 ## 👨‍💻 About me
 
-I am a **Data Analytics professional** with over **5 years of experience** in data analysis, process automation and operational improvement. My work focuses on turning complex business requirements into reliable data solutions, streamlined workflows and actionable insights.
+I position myself as a **Data & Automation Engineer**, working at the intersection of **Data Engineering, AI Engineering, Software Engineering and process automation**. My strength is end-to-end problem solving: I translate business needs into technical solutions, moving from problem analysis and data modeling to architecture, implementation, integration, testing and measurable outcomes.
 
-I have delivered more than **50 solutions** to streamline processes, improve data reliability and support decision-making. I enjoy working across the full lifecycle: understanding the problem, structuring the data, engineering the solution, validating outcomes and documenting the implementation.
+With over **5 years of experience** in data analysis, process automation and operational improvement, I have delivered more than **50 solutions** designed to streamline workflows, improve data reliability and support decision-making. My projects reflect a multidisciplinary engineering profile: building data and database solutions, developing machine learning applications, integrating AI through APIs and MCP tools, and delivering web applications backed by modern services.
 
-My core toolkit includes **SQL Server/T-SQL, Power BI/DAX, Python, ETL/ELT and RPA**, including automation in SAP environments. My career focus is to deepen my expertise in **Data Engineering, Analytics Engineering and Data Science**.
+My core toolkit includes **Python, SQL Server/T-SQL, Power BI/DAX, ETL/ELT, APIs, testing and RPA**, including automation in SAP environments. I bring a data-oriented mindset to software development, with attention to architecture, reliability, maintainability and the practical impact of each solution.
 
-**Areas of expertise**
-- 📊 Data Analytics, BI, metrics and operational KPIs
-- 🗄️ SQL Server, T-SQL, Dynamic SQL, SSIS and data modeling
-- 🔄 ETL/ELT, data integration, transformation and quality
-- 🐍 Python, Pandas, NumPy and Scikit-learn
-- ⚙️ RPA, process automation and SAP GUI
-- 🤖 Machine Learning, recommender systems and applied AI
-- 🧩 Software engineering, APIs, testing and architecture
+**Core engineering domains**
+- 🏗️ **Data Engineering:** data modeling, SQL, ETL/ELT, integration, transformation and data quality
+- 🤖 **AI & Machine Learning Engineering:** predictive modeling, recommender systems, applied AI and MCP integrations
+- ⚙️ **Automation Engineering:** Python, RPA, SAP GUI and workflow optimization
+- 🧩 **Software Engineering:** APIs, backend development, system integration, testing and architecture
+- 📊 **Analytics Engineering & BI:** Power BI, DAX, metrics, operational KPIs and decision support
+
+My current professional direction is to deepen my specialization in **Data Engineering and AI Engineering**, while continuing to build reliable software and automation solutions that solve real-world problems.
 
 ---
 
