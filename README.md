@@ -163,7 +163,6 @@ Acredito que aprendizado contínuo, disciplina e curiosidade são essenciais par
 
   <a href="https://warlemjung.site"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-0077B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/warlem-jung"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:warlemjung@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:102A43,100:050505&height=120&section=footer" width="100%" alt="" />
