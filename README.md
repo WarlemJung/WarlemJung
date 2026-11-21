@@ -8,7 +8,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050505,45:102A43,100:0077B6&text=WARLEM%20JUNG&fontColor=FFFFFF&fontSize=56&fontAlignY=43&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20ENGINEERING&descAlignY=64&descSize=15&animation=fadeIn"
     width="100%"
-    alt="Warlem Jung — Data Science, Engineering and Automation"
+    alt="Warlem Jung — Data Analytics, Data Science and Engineering"
   />
 
   <p>
@@ -27,24 +27,24 @@
 
 ---
 
-## 🇧🇷 Sobre mim
+## 👨‍💻 About me
 
-Sou **Analista de Dados Pleno na Atento**, com mais de **5 anos de experiência** em análise de dados, automação e melhoria de processos. Minha trajetória inclui planejamento e análise operacional na **Konecta** e atuação na Atento em liderança operacional, dados e automação.
+I am a **Mid-level Data Analyst at Atento**, with over **5 years of experience** in data analytics, automation and process improvement. My background includes workforce planning and operational analytics at **Konecta**, followed by operational leadership, data and automation work at Atento.
 
-Já desenvolvi mais de **50 soluções** para otimizar rotinas, melhorar a confiabilidade das informações e apoiar decisões. Gosto de trabalhar de ponta a ponta: entender o problema, estruturar os dados, desenvolver a solução, validar resultados e documentar o que foi construído.
+I have delivered more than **50 solutions** to streamline processes, improve data reliability and support decision-making. I enjoy working across the full lifecycle: understanding the problem, structuring the data, engineering the solution, validating outcomes and documenting the implementation.
 
-Atuo principalmente com **SQL Server/T-SQL, Power BI/DAX, Python, ETL/ELT e RPA**, incluindo automações em ambientes SAP. Meu direcionamento profissional é aprofundar minha atuação em **Data Engineering, Analytics Engineering e Data Science**.
+My core toolkit includes **SQL Server/T-SQL, Power BI/DAX, Python, ETL/ELT and RPA**, including automation in SAP environments. My career focus is to deepen my expertise in **Data Engineering, Analytics Engineering and Data Science**.
 
-**Áreas de atuação**
-- 📊 Data Analytics, BI, métricas e indicadores operacionais
-- 🗄️ SQL Server, T-SQL, Dynamic SQL, SSIS e modelagem de dados
-- 🔄 ETL/ELT, integração, transformação e qualidade de dados
+**Areas of expertise**
+- 📊 Data Analytics, BI, metrics and operational KPIs
+- 🗄️ SQL Server, T-SQL, Dynamic SQL, SSIS and data modeling
+- 🔄 ETL/ELT, data integration, transformation and quality
 - 🐍 Python, Pandas, NumPy e Scikit-learn
-- ⚙️ RPA, automação de processos e SAP GUI
-- 🤖 Machine Learning, sistemas de recomendação e IA aplicada
-- 🧩 Engenharia de software, APIs, testes e arquitetura
+- ⚙️ RPA, process automation and SAP GUI
+- 🤖 Machine Learning, recommender systems and applied AI
+- 🧩 Software engineering, APIs, testing and architecture
 
-## 🇺🇸 About me
+
 
 I am a **Mid-level Data Analyst at Atento**, with 5+ years of experience in data analytics, automation and process improvement. My professional background includes workforce planning and operational analytics at **Konecta**, followed by operational leadership, data and automation work at Atento.
 
@@ -96,59 +96,59 @@ My core toolkit includes **SQL Server/T-SQL, Power BI/DAX, Python, ETL/ELT and R
 
 ---
 
-## 📌 Selected impact | Resultados em destaque
+## 📌 Selected impact
 
-- **SAP automation:** redução de uma rotina operacional de aproximadamente **3 horas para 5 minutos** por meio de um pipeline com arquitetura Producer–Consumer e princípios de Clean Architecture.
-- **Database auditing:** Crono Auditor com overhead reportado inferior a **1%**.
-- **50+ solutions delivered:** soluções de automação, análise e melhoria de processos ao longo da experiência profissional.
-- **CineMatch:** catálogo com **45.430 filmes** e NDCG@10 reportado de **0,3604**.
-- **Silhouette Studio MCP:** **28 ferramentas**, **112 testes** e **96% de cobertura reportada**.
+- **SAP automation:** reduced an operational process from approximately **3 hours to 5 minutes** through a pipeline based on Producer–Consumer architecture and Clean Architecture principles.
+- **Database auditing:** Crono Auditor with reported overhead below **1%**.
+- **50+ solutions delivered:** across automation, analytics and process improvement throughout my professional experience.
+- **CineMatch:** catalog of **45,430 movies** and a reported NDCG@10 of **0.3604**.
+- **Silhouette Studio MCP:** **28 tools**, **112 tests** and **96% reported test coverage**.
 
 ---
 
-## 🚀 Featured projects | Projetos em destaque
+## 🚀 Featured projects
 
 ### 🎬 [CineMatch Recommender](https://github.com/WarlemJung/cinematch-recommender)
 **Python · Flask · Scikit-learn · Recommendation Systems**
 
-Sistema de recomendação de filmes com catálogo de **45.430 títulos**. A versão **2.1.0** reporta **NDCG@10 de 0,3604**, com foco em avaliação e qualidade das recomendações.
+A movie recommendation system with a catalog of **45,430 titles**. Version **2.1.0** reports an **NDCG@10 of 0.3604**, focusing on recommendation quality and evaluation.
 
 ### 🧩 [Silhouette Studio MCP Server](https://github.com/WarlemJung/Silhouette-Studio-MCP-Server)
 **Python · MCP · JSON-RPC · AI Tooling**
 
-Servidor MCP para integração de fluxos de trabalho com o Silhouette Studio. O projeto reúne **28 ferramentas**, com **112 testes** e **96% de cobertura reportada**. Inclui geração de arquivos DXF, SVG e PNG.
+An MCP server that connects AI-powered workflows to Silhouette Studio. The project provides **28 tools**, with **112 tests** and **96% reported test coverage**. It includes DXF, SVG and PNG file generation.
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/warlemjung/silhouette-studio-mcp-server)](https://m8ven.ai/mcp/warlemjung/silhouette-studio-mcp-server?s=readme)
 
 ### 🛡️ [Crono Auditor — SQL Server Dynamic Audit Framework](https://github.com/WarlemJung/Crono-Auditor-SQL-Server-Dynamic-Audit-Framework)
 **SQL Server · T-SQL · Dynamic SQL · Database Auditing**
 
-Framework de auditoria dinâmica para SQL Server, com triggers, Shadow Tables e armazenamento estruturado em JSON. Overhead inferior a **1%**, conforme medição reportada no projeto. Documentação multilíngue em 10 idiomas.
+A dynamic auditing framework for SQL Server, using triggers, Shadow Tables and structured JSON storage. The project reports overhead below **1%** and provides documentation in 10 languages.
 
 ### 💈 [Ivan Barbearia](https://github.com/WarlemJung/IvanBarbearia) · [Live application](https://ivan-barbearia.vercel.app)
 **React · TypeScript · Supabase · SaaS**
 
-Aplicação SaaS para gestão de barbearia, com foco em operação, clientes, agendamentos e indicadores do negócio. Projeto declarado como publicado em produção.
+A SaaS application for barbershop management, covering operations, customers, appointments and business metrics. The project has been reported as deployed to production.
 
 ### ⛪ [IBBN.online](https://github.com/WarlemJung/ibbn.online)
 **Web · Node.js · Vercel · Redis/Upstash**
 
-Plataforma web institucional para comunidade, ministérios e comunicação da igreja. Projeto com pipeline de build, testes automatizados e validações de acessibilidade; homologação e configuração de produção devem ser consideradas conforme o estado de cada ambiente.
+An institutional website for community engagement, ministries and church communications. The project includes a build pipeline, automated tests and accessibility checks; deployment and production configuration should be assessed against the current state of each environment.
 
 ### 🛍️ [Yehudah Store](https://github.com/WarlemJung/YehudahStore)
 **E-commerce · Node.js · Firebase · Mercado Pago**
 
-Projeto de e-commerce para marca de vestuário cristão, com integração de pagamentos e estrutura web.
+An e-commerce project for a Christian apparel brand, featuring payment integration and a web storefront.
 
 ### 📂 [Portfolio](https://github.com/WarlemJung/portfolio) · [warlemjung.site](https://warlemjung.site)
 **Next.js · TypeScript · Tailwind CSS · Gemini**
 
-Portfólio profissional multilíngue com foco em apresentação de projetos, experiência e competências em dados e engenharia.
+A multilingual professional portfolio showcasing projects, experience and data and engineering skills.
 
 ### 🎞️ [Movie Recommender System](https://github.com/WarlemJung/ML---Movie-Recommender-System)
 **Python · Pandas · Scikit-learn · Flask**
 
-Projeto de recomendação de filmes com técnicas de filtragem e similaridade para exploração de Machine Learning aplicado.
+A movie recommendation project exploring filtering and similarity techniques for applied Machine Learning.
 
 ---
 
@@ -179,40 +179,40 @@ Projeto de recomendação de filmes com técnicas de filtragem e similaridade pa
 
 ---
 
-## 🔭 Currently exploring | Estudando atualmente
+## 🔭 Currently exploring
 
-- Machine Learning avançado, modelagem preditiva e MLOps
-- Engenharia de Dados, ETL/ELT e qualidade de dados
+- Advanced Machine Learning, predictive modeling and MLOps
+- Data Engineering, ETL/ELT and data quality
 - AI Agents, Google Gemini e Model Context Protocol (MCP)
 - TypeScript, Next.js, React, Tailwind CSS e Supabase
-- Java — em aprendizado
-- Dart — área de interesse
-- Rust — experiência de portabilidade em projeto
+- Java — currently learning
+- Dart — area of interest
+- Rust — project-based porting experience
 
-## 🌐 Languages | Idiomas
+## 🌐 Languages
 
-- **Português:** nativo
-- **Espanhol:** avançado / fluente profissional
-- **Inglês:** intermediário, com foco técnico
+- **Portuguese:** native
+- **Spanish:** advanced / professional fluency
+- **English:** intermediate, with a technical focus
 
 ---
 
 ## 🌎 Beyond technology
 
-Acredito que aprendizado contínuo, disciplina e curiosidade são essenciais para resolver problemas relevantes. Meu objetivo é continuar explorando tecnologias, aprofundando conhecimentos em dados e engenharia e construindo soluções com impacto no mundo real.
+I believe continuous learning, discipline and curiosity are essential to solving meaningful problems. My goal is to keep exploring technology, deepening my knowledge of data and engineering, and building solutions with real-world impact.
 
 > **“Determination turns complex challenges into engineering opportunities.”**
 
 ---
 
-## 🤝 Let's connect | Vamos conversar
+## 🤝 Let's connect
 
 <div align="center">
 
   **Interested in data, engineering, automation or building something together?**
 
   <a href="https://warlemjung.site"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-0077B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/warlem-jung"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/warlem-jung/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:102A43,100:050505&height=120&section=footer" width="100%" alt="" />
