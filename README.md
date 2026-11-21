@@ -29,33 +29,37 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou **Analista de Dados Pleno na Atento**, com mais de 5 anos de experiência em dados, automação e melhoria de processos. Ao longo dessa trajetória, desenvolvi mais de 50 soluções voltadas à eficiência operacional, confiabilidade da informação e suporte à tomada de decisão.
+Sou **Analista de Dados Pleno na Atento**, com mais de **5 anos de experiência** em análise de dados, automação e melhoria de processos. Minha trajetória inclui planejamento e análise operacional na **Konecta** e atuação na Atento em liderança operacional, dados e automação.
 
-Minha atuação conecta **Data Analytics, Data Engineering e Software Engineering**. Trabalho com SQL Server/T-SQL, ETL/ELT, Power BI/DAX, Python e RPA — incluindo automações em ambientes SAP — para transformar problemas operacionais em soluções mensuráveis. Meu próximo passo profissional é aprofundar minha atuação em **Engenharia de Dados e Ciência de Dados**, mantendo o foco em qualidade, escalabilidade e impacto real.
+Já desenvolvi mais de **50 soluções** para otimizar rotinas, melhorar a confiabilidade das informações e apoiar decisões. Gosto de trabalhar de ponta a ponta: entender o problema, estruturar os dados, desenvolver a solução, validar resultados e documentar o que foi construído.
 
-**Principais áreas de interesse**
-- 📊 Análise de Dados, BI e indicadores de negócio
-- 🤖 Machine Learning, sistemas de recomendação e análise preditiva
-- 🐍 Python para análise, automação, APIs e engenharia de dados
-- 🗄️ SQL Server, T-SQL, modelagem de dados e ETL/ELT
-- 📊 Power BI, DAX, indicadores e analytics operacional
-- ⚙️ RPA, automação de processos e integração com SAP
-- 🧩 Engenharia de software, qualidade e arquitetura de soluções
+Atuo principalmente com **SQL Server/T-SQL, Power BI/DAX, Python, ETL/ELT e RPA**, incluindo automações em ambientes SAP. Meu direcionamento profissional é aprofundar minha atuação em **Data Engineering, Analytics Engineering e Data Science**.
+
+**Áreas de atuação**
+- 📊 Data Analytics, BI, métricas e indicadores operacionais
+- 🗄️ SQL Server, T-SQL, Dynamic SQL, SSIS e modelagem de dados
+- 🔄 ETL/ELT, integração, transformação e qualidade de dados
+- 🐍 Python, Pandas, NumPy e Scikit-learn
+- ⚙️ RPA, automação de processos e SAP GUI
+- 🤖 Machine Learning, sistemas de recomendação e IA aplicada
+- 🧩 Engenharia de software, APIs, testes e arquitetura
 
 ## 🇺🇸 About me
 
-I am a **Mid-level Data Analyst at Atento**, with 5+ years of experience in data, process automation and operational improvement. Throughout my career, I have delivered 50+ solutions focused on operational efficiency, data reliability and decision support.
+I am a **Mid-level Data Analyst at Atento**, with 5+ years of experience in data analytics, automation and process improvement. My professional background includes workforce planning and operational analytics at **Konecta**, followed by operational leadership, data and automation work at Atento.
 
-My work connects **Data Analytics, Data Engineering and Software Engineering**. I use SQL Server/T-SQL, ETL/ELT, Power BI/DAX, Python and RPA — including automation in SAP environments — to turn operational challenges into measurable outcomes. My next career step is to deepen my work in **Data Engineering and Data Science**, with a strong focus on quality, scalability and practical impact.
+I have delivered **50+ solutions** to streamline processes, improve data reliability and support decision-making. I enjoy the full problem-solving lifecycle: understanding business needs, structuring data, engineering solutions, validating outcomes and documenting the result.
 
-**Core interests**
-- Data Analytics, Business Intelligence and KPIs
-- Machine Learning, recommender systems and predictive analytics
-- Python development, APIs and data engineering
-- SQL Server, T-SQL, ETL/ELT and data pipelines
-- Power BI, DAX and operational analytics
-- RPA, process automation and SAP integration
-- Software engineering, quality and solution architecture
+My core toolkit includes **SQL Server/T-SQL, Power BI/DAX, Python, ETL/ELT and RPA**, including automation in SAP environments. I am focused on growing further in **Data Engineering, Analytics Engineering and Data Science**.
+
+**Areas of focus**
+- Data Analytics, BI and operational performance metrics
+- SQL Server, T-SQL, Dynamic SQL, SSIS and data modeling
+- ETL/ELT, data integration, transformation and quality
+- Python, Pandas, NumPy and Scikit-learn
+- RPA, process automation and SAP GUI
+- Machine Learning, recommender systems and applied AI
+- Software engineering, APIs, testing and architecture
 
 ---
 
@@ -63,35 +67,30 @@ My work connects **Data Analytics, Data Engineering and Software Engineering**. 
 
 <div align="center">
 
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Python, JavaScript, TypeScript, HTML and CSS" />
+  <strong>Languages & Web</strong><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,tailwind" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js and Tailwind CSS" />
 
   <br/><br/><strong>Data & Machine Learning</strong><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Integration Services" />
 
-  <br/><br/><strong>Backend, Web & Automation</strong><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,tailwind,supabase" alt="FastAPI, Flask, React, Next.js, Tailwind CSS and Supabase" />
-
+  <br/><br/><strong>Backend, Databases & Automation</strong><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
-
-  <br/><br/><strong>Data & BI</strong><br/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/ETL%2FELT-1F6FEB?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL and ELT" />
-  <br/><br/><strong>Databases & Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,vscode,vercel" alt="PostgreSQL, MySQL, SQLite, Docker, Git, GitHub, VS Code and Vercel" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/RPA-Process%20Automation-6E40C9?style=for-the-badge" alt="RPA process automation" />
-  <img src="https://img.shields.io/badge/SAP-ERP%20Automation-0FA3E6?style=for-the-badge&logo=sap&logoColor=white" alt="SAP automation" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-AI%20Integration-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/SAP%20GUI-0FA3E6?style=for-the-badge&logo=sap&logoColor=white" alt="SAP GUI" />
+
+  <br/><br/><strong>AI, Integration & Developer Tools</strong><br/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-444444?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,vscode,vercel" alt="PostgreSQL, MySQL, SQLite, Docker, Git, GitHub, VS Code and Vercel" />
 
 </div>
 
@@ -99,36 +98,57 @@ My work connects **Data Analytics, Data Engineering and Software Engineering**. 
 
 ## 📌 Selected impact | Resultados em destaque
 
-- **SAP process automation:** redução de uma rotina operacional de aproximadamente **3 horas para 5 minutos**.
-- **SQL Server auditing:** framework de auditoria com overhead reportado inferior a **1%**.
-- **50+ solutions delivered:** automações, melhorias e soluções orientadas a dados ao longo da experiência profissional.
-- **Power BI & Conforce:** desenvolvimento de análises e indicadores para apoiar acompanhamento operacional e tomada de decisão.
+- **SAP automation:** redução de uma rotina operacional de aproximadamente **3 horas para 5 minutos** por meio de um pipeline com arquitetura Producer–Consumer e princípios de Clean Architecture.
+- **Database auditing:** Crono Auditor com overhead reportado inferior a **1%**.
+- **50+ solutions delivered:** soluções de automação, análise e melhoria de processos ao longo da experiência profissional.
+- **CineMatch:** catálogo com **45.430 filmes** e NDCG@10 reportado de **0,3604**.
+- **Silhouette Studio MCP:** **28 ferramentas**, **112 testes** e **96% de cobertura reportada**.
 
 ---
 
 ## 🚀 Featured projects | Projetos em destaque
 
 ### 🎬 [CineMatch Recommender](https://github.com/WarlemJung/cinematch-recommender)
-**Machine Learning · Recommendation Systems · Python**
+**Python · Flask · Scikit-learn · Recommendation Systems**
 
-Projeto de sistema de recomendação de filmes, com foco em descoberta personalizada de conteúdo e aplicação de técnicas de Machine Learning.
+Sistema de recomendação de filmes com catálogo de **45.430 títulos**. A versão **2.1.0** reporta **NDCG@10 de 0,3604**, com foco em avaliação e qualidade das recomendações.
 
 ### 🧩 [Silhouette Studio MCP Server](https://github.com/WarlemJung/Silhouette-Studio-MCP-Server)
-**Python · Model Context Protocol · AI Integration**
+**Python · MCP · JSON-RPC · AI Tooling**
 
-Servidor de integração baseado no Model Context Protocol (MCP), conectando fluxos de trabalho com IA às funcionalidades do Silhouette Studio.
+Servidor MCP para integração de fluxos de trabalho com o Silhouette Studio. O projeto reúne **28 ferramentas**, com **112 testes** e **96% de cobertura reportada**. Inclui geração de arquivos DXF, SVG e PNG.
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/warlemjung/silhouette-studio-mcp-server)](https://m8ven.ai/mcp/warlemjung/silhouette-studio-mcp-server?s=readme)
 
 ### 🛡️ [Crono Auditor — SQL Server Dynamic Audit Framework](https://github.com/WarlemJung/Crono-Auditor-SQL-Server-Dynamic-Audit-Framework)
-**SQL Server · Database Auditing · Data Governance**
+**SQL Server · T-SQL · Dynamic SQL · Database Auditing**
 
-Framework de auditoria dinâmica para SQL Server, voltado à rastreabilidade e ao acompanhamento de alterações em banco de dados.
+Framework de auditoria dinâmica para SQL Server, com triggers, Shadow Tables e armazenamento estruturado em JSON. Overhead inferior a **1%**, conforme medição reportada no projeto. Documentação multilíngue em 10 idiomas.
 
-### 🎥 [Movie Recommender System](https://github.com/WarlemJung/ML---Movie-Recommender-System)
-**Python · Machine Learning · Recommendation Systems**
+### 💈 [Ivan Barbearia](https://github.com/WarlemJung/IvanBarbearia) · [Live application](https://ivan-barbearia.vercel.app)
+**React · TypeScript · Supabase · SaaS**
 
-Projeto de estudo e implementação de recomendações de filmes utilizando conceitos de Machine Learning.
+Aplicação SaaS para gestão de barbearia, com foco em operação, clientes, agendamentos e indicadores do negócio. Projeto declarado como publicado em produção.
+
+### ⛪ [IBBN.online](https://github.com/WarlemJung/ibbn.online)
+**Web · Node.js · Vercel · Redis/Upstash**
+
+Plataforma web institucional para comunidade, ministérios e comunicação da igreja. Projeto com pipeline de build, testes automatizados e validações de acessibilidade; homologação e configuração de produção devem ser consideradas conforme o estado de cada ambiente.
+
+### 🛍️ [Yehudah Store](https://github.com/WarlemJung/YehudahStore)
+**E-commerce · Node.js · Firebase · Mercado Pago**
+
+Projeto de e-commerce para marca de vestuário cristão, com integração de pagamentos e estrutura web.
+
+### 📂 [Portfolio](https://github.com/WarlemJung/portfolio) · [warlemjung.site](https://warlemjung.site)
+**Next.js · TypeScript · Tailwind CSS · Gemini**
+
+Portfólio profissional multilíngue com foco em apresentação de projetos, experiência e competências em dados e engenharia.
+
+### 🎞️ [Movie Recommender System](https://github.com/WarlemJung/ML---Movie-Recommender-System)
+**Python · Pandas · Scikit-learn · Flask**
+
+Projeto de recomendação de filmes com técnicas de filtragem e similaridade para exploração de Machine Learning aplicado.
 
 ---
 
@@ -165,14 +185,15 @@ Projeto de estudo e implementação de recomendações de filmes utilizando conc
 - Engenharia de Dados, ETL/ELT e qualidade de dados
 - AI Agents, Google Gemini e Model Context Protocol (MCP)
 - TypeScript, Next.js, React, Tailwind CSS e Supabase
-- Java (learning) · Dart (exploring)
-- Rust — applied in project work
+- Java — em aprendizado
+- Dart — área de interesse
+- Rust — experiência de portabilidade em projeto
 
 ## 🌐 Languages | Idiomas
 
-- **Português:** nativo / fluente
-- **Espanhol:** fluente
-- **Inglês:** técnico
+- **Português:** nativo
+- **Espanhol:** avançado / fluente profissional
+- **Inglês:** intermediário, com foco técnico
 
 ---
 
