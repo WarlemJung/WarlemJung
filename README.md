@@ -117,7 +117,7 @@ A dynamic auditing framework for SQL Server, using triggers, Shadow Tables and s
 
 A SaaS application for barbershop management, covering operations, customers, appointments and business metrics. The project has been reported as deployed to production.
 
-### ⛪ [IBBN.online](https://github.com/WarlemJung/ibbn.online)
+### ⛪ [IBBN.online](https://ibbn.net.br)
 
 **Web · Node.js · Vercel · Redis/Upstash**
 
@@ -134,13 +134,6 @@ An e-commerce project for a Christian apparel brand, featuring payment integrati
 **Next.js · TypeScript · Tailwind CSS · Gemini**
 
 A multilingual professional portfolio showcasing projects, experience and data and engineering skills.
-
-### 🎞️ [Movie Recommender System](https://github.com/WarlemJung/ML---Movie-Recommender-System)
-
-**Python · Pandas · Scikit-learn · Flask**
-
-A movie recommendation project exploring filtering and similarity techniques for applied Machine Learning.
-
 ---
 
 ## 📊 GitHub analytics
